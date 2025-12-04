@@ -31,3 +31,4 @@ To provide an interactive dashboard summarizing churn KPIs and predictive insigh
 
 -For an analytics portfolio (or for a company), this integrated pipeline (ETL → BI → ML → Dashboard) demonstrates scalable and repeatable solution: one can feed new data periodically, update dashboards, and       continuously monitor churn, rather than doing ad-hoc analyses.-
 
+Dashboard image - !https://github.com/katharvishal/Churn-Analysis/blob/main/Dashboard1.png
